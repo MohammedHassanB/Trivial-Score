@@ -1,2 +1,2 @@
 #React based game
-# game url:
+# game url:https://trivial-score-mo.netlify.app/
